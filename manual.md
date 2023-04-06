@@ -3,3 +3,5 @@
 * git init - инициализирует локальный репозиторий
 * git add
 * commit -m"****"
+* log
+* diff
