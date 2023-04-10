@@ -20,9 +20,9 @@
 
 ## Ветви
 
-* __git branch__
-* __git branch branch_name__
-* __git branch -d branch_name__
-* __git checkout branch_name__
-* __git merge branch_name__
-* __git log --graph__
+* __git branch__ - список веток
+* __git branch branch_name__ - добавление ветки
+* __git branch -d branch_name__ - удаление ветки
+* __git checkout branch_name__ - переход на ветку
+* __git merge branch_name__ - слияние ветки (к той на которой находимся)
+* __git log --graph__ - список коммитов дерево
