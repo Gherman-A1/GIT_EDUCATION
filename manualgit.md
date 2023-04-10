@@ -18,3 +18,11 @@
 * __git checkout master__ - возврат к актуальной версии
 * __git diff__ - разница между текущим файлом и сохраненным
 
+## Ветви
+
+* __git branch__
+* __git branch branch_name__
+* __git branch -d branch_name__
+* __git checkout branch_name__
+* __git merge branch_name__
+* __git log --graph__
